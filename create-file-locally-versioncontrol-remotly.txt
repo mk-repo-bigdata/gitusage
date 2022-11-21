@@ -1,0 +1,2 @@
+1) use git init
+2) use git add .
