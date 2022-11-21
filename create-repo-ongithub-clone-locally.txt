@@ -8,3 +8,4 @@
 8) use git commit -m "< message>" to add message
 9) use git remote to get the remote name
 10) use git push origin HEAD:master
+11) merge in github # optional
