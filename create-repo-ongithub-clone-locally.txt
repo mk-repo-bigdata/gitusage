@@ -7,4 +7,4 @@
 7) use git add . to stage the new file
 8) use git commit -m "< message>" to add message
 9) use git remote to get the remote name
-10) use git push origin master
+10) use git push origin HEAD:master
