@@ -1,0 +1,7 @@
+1) create git repo on github.com  - hint: click + sign on top right burger menu
+2) keep the option public repo
+3) Name the repo as  per naming convention 
+4) make sure git intalled on local machine
+5) use git clone <https: clone url> to clone to local directory
+6) use git status to check any new file created on the cloned directory
+7) 
